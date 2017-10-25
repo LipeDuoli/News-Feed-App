@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Guardian Tech News Feed</string>
+    <string name="search_text_hint">Busque a Noticia</string>
+    <string name="first_open_app_text">Use a campo de busca \npara pesquisar uma noticia</string>
+    <string name="searching_news">Pesquisando noticias</string>
+    <string name="no_internet_connection">Sem conexão com a internet</string>
+    <string name="no_news">Nenhuma noticia encontrada</string>
+
+    <string name="settings_title">Configurações</string>
+    <string name="settings_order_by_label">Ordenar por</string>
+    <string name="settings_order_by_key">order-by</string>
+    <string name="settings_order_by_default">newest</string>
+    <string name="settings_order_by_newest_label">Mais novos</string>
+    <string name="settings_order_by_oldest_label">Mais velhos</string>
+    <string name="settings_order_by_relevance_label">Mais relevante</string>
+    <string name="settings_order_by_newest_value">newest</string>
+    <string name="settings_order_by_oldest_value">oldest</string>
+    <string name="settings_order_by_relevance_value">relevance</string>
+    <string name="settings_menu_item">Configurações</string>
+</resources>
